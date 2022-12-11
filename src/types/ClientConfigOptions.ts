@@ -5,7 +5,7 @@ export interface ClientConfigOptions {
   uri: string;
   dbName: string;
   collectionName: string;
-  connectionOptions: any;
+  connectionOptions?: any;
   applicationId: string;
   filterProperty?: string;
 }
