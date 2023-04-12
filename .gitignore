@@ -17,3 +17,5 @@ dist/
 *.tgz
 package/*
 lib/
+
+coverage/
